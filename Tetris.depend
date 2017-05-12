@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1493397972 source:d:\download\documents\code\tetris\main.cpp
+	<SFML/Graphics.hpp>
+	<time.h>
+
+1493704251 source:d:\download\code\tetris\main.cpp
+	<SFML/Graphics.hpp>
+	<time.h>
+	"Menu.h"
+
+1493700832 source:d:\download\code\tetris\menu.cpp
+	"Menu.h"
+
+1493653888 d:\download\code\tetris\menu.h
+	"SFML/Graphics.hpp"
+
+1494436128 source:d:\download\compressed\tetris1-master\tetris1-master\main.cpp
+	<SFML/Graphics.hpp>
+	<time.h>
+	<fstream>
+	<iostream>
+	"Menu.h"
+	"Score.h"
+
+1494213598 d:\download\compressed\tetris1-master\tetris1-master\menu.h
+	<SFML/Graphics.hpp>
+
+1493976503 source:d:\download\compressed\tetris1-master\tetris1-master\menu.cpp
+	<SFML/Graphics.hpp>
+	"Menu.h"
+
+1494059282 source:d:\download\compressed\tetris1-master\tetris1-master\retry.cpp
+	<SFML/Graphics.hpp>
+	"Retry.h"
+
+1494055054 d:\download\compressed\tetris1-master\tetris1-master\retry.h
+	"SFML/Graphics.hpp"
+
+1494436275 source:d:\download\compressed\tetris1-master\tetris1-master\score.cpp
+	<SFML/Graphics.hpp>
+	<sstream>
+	<fstream>
+	"Score.h"
+
+1494427687 d:\download\compressed\tetris1-master\tetris1-master\score.h
+	"SFML/Graphics.hpp"
+
+1494515025 source:c:\users\7th\desktop\tetris1-master\main.cpp
+	<SFML/Graphics.hpp>
+	<time.h>
+	<iostream>
+	"Menu.h"
+	"Score.h"
+
+1494260398 c:\users\7th\desktop\tetris1-master\menu.h
+	<SFML/Graphics.hpp>
+
+1494492128 c:\users\7th\desktop\tetris1-master\score.h
+	<SFML/Graphics.hpp>
+
+1494475637 source:c:\users\7th\desktop\tetris1-master\menu.cpp
+	<SFML/Graphics.hpp>
+	"Menu.h"
+
+1494492206 source:c:\users\7th\desktop\tetris1-master\score.cpp
+	<SFML/Graphics.hpp>
+	<sstream>
+	<fstream>
+	"Score.h"
+
